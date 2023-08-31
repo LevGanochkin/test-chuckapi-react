@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.notFound {
+  justify-content: center;
+  height: 100vh;
+}
+.notFound p,
+.notFound h1 {
+  color: #656ec2;
+  font-family: 'Fira Sans';
+  margin-bottom: 5px;
+}
+.notFound button {
+  width: 100px;
+  background-color: #fff;
+  color: #767676;
+  font-family: 'Montserrat';
+  border-color: #656ec2;
+  border-radius: 5px;
+}
+
+.jokes {
+  width: auto;
+  margin: 0 162px 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1600px;
+}
+
+@media (max-width: 1900px) {
+  .jokes {
+    justify-content: space-around;
+  }
+}
+@media (max-width: 1360px) {
+  .jokes {
+    margin: 0 100px 0;
+  }
+}
+@media (max-width: 1200px) {
+  .jokes {
+    margin: 0 60px 0;
+  }
+}

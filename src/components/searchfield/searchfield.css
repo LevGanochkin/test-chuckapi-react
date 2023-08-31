@@ -1,0 +1,86 @@
+.wrap {
+  height: auto;
+  max-width: 626px;
+  min-width: 320px;
+  margin: 78px 647px 60px;
+}
+
+.search {
+  width: 626px;
+  height: 64px;
+  background-color: white;
+  color: #656ec2;
+  padding: 20px 30px;
+  font-weight: 700;
+  font-size: 22px;
+  box-shadow: 0px 6px 10px -2px #6f6f6f7d;
+}
+
+.search::placeholder {
+  font-family: 'Fira Sans';
+  color: #656ec2;
+}
+
+.search:focus {
+  outline: 1px solid #656ec2;
+  border-radius: 5px;
+  transition-duration: 100ms;
+}
+
+.search:focus::placeholder {
+  color: #656ec24a;
+}
+
+.search:not(:focus) {
+  outline: 1px solid white;
+  border: none;
+  transition-duration: 100ms;
+}
+
+.found {
+  padding: 20px 30px 0;
+  color: #282626;
+  font-size: 16px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+@media (max-width: 750px) {
+  .search {
+    width: 500px;
+  }
+}
+
+@media (max-width: 500px) {
+  .search {
+    font-size: 18px;
+    height: 60px;
+    width: 410px;
+  }
+  .found {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 400px) {
+  .search {
+    font-size: 14px;
+    height: 56px;
+    width: 350px;
+  }
+  .found {
+    font-size: 12px;
+  }
+  .wrap {
+    margin: 39px auto 30px;
+  }
+}
+
+@media (max-width: 350px) {
+  .found {
+    font-size: 10px;
+  }
+  .search {
+    width: 320px;
+  }
+}

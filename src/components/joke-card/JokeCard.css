@@ -1,0 +1,144 @@
+.jokeCard {
+  width: 100%;
+  min-width: 320px;
+  height: auto;
+  box-shadow: 0px 7px 25px #64646f33;
+  margin-bottom: 20px;
+  padding-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.jokeCard:hover {
+  outline: 2px solid #656ec2;
+  border-radius: 2px;
+}
+
+.jokeCard:active {
+  transform: scale(0.95);
+}
+
+.jokeText {
+  color: #282626;
+  font-family: 'Fira Sans';
+  font-weight: 400;
+  overflow: hidden;
+}
+
+.heading {
+  height: 262px;
+  max-width: 788px;
+  padding: 40px 40px 25px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.normal {
+  height: 150px;
+  max-width: 518px;
+  padding: 30px 30px 25px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.id {
+  color: #767676;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+.date {
+  color: #767676;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+@media (max-width: 1900px) {
+  .heading {
+    max-width: 700px;
+  }
+  .normal {
+    max-width: 450px;
+  }
+}
+@media (max-width: 1725px) {
+  .heading {
+    max-width: 650px;
+    line-height: 28px;
+  }
+  .normal {
+    max-width: 400px;
+  }
+}
+@media (max-width: 1625px) {
+  .heading {
+    max-width: 600px;
+  }
+}
+@media (max-width: 1525px) {
+  .heading {
+    max-width: 550px;
+  }
+}
+@media (max-width: 1425px) {
+  .heading {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 1360px) {
+  .heading,
+  .normal {
+    height: 150px;
+    max-width: 500px;
+    padding: 30px 30px 25px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (max-width: 500px) {
+  .jokeCard {
+    height: 150px;
+  }
+  .heading,
+  .normal {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 25px 25px 20px;
+  }
+  .id,
+  .date {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 400px) {
+  .heading,
+  .normal {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .id,
+  .date {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 350px) {
+  .heading,
+  .normal {
+    font-size: 10px;
+    line-height: 16px;
+    padding: 20px 20px 15px;
+  }
+}
