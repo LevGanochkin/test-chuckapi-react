@@ -1,0 +1,79 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "created_at": "2020/01/01",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%20doesn%27t%20read%20books.%20He%20stares%20them%20down%20until%20he%20gets%20the%20information%20he%20wants.",
+      "value": "Chuck Norris doesn't read books. He stares them down until he gets the information he wants."
+    },
+    {
+      "id": 2,
+      "created_at": "2020/02/02",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Since%201940%2C%20the%20year%20Chuck%20Norris%20was%20born%2C%20roundhouse%20kick%20related%20deaths%20have%20increased%2013%2C000%20percent.",
+      "value": "Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent."
+    },
+    {
+      "id": 3,
+      "created_at": "2020/03/03",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%27%20roundhouse%20kick%20is%20so%20powerful%2C%20it%20can%20be%20seen%20from%20outer%20space%20by%20the%20naked%20eye.",
+      "value": "Chuck Norris' roundhouse kick is so powerful, it can be seen from outer space by the naked eye."
+    },
+    {
+      "id": 4,
+      "created_at": "2020/05/07",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Once%20a%20cobra%20bit%20Chuck%20Norris%27%20leg.%20After%20five%20days%20of%20excruciating%20pain%2C%20the%20cobra%20died.",
+      "value": "Once a cobra bit Chuck Norris' leg. After five days of excruciating pain, the cobra died."
+    },
+    {
+      "id": 5,
+      "created_at": "2020/08/09",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%20never%20retreats%3B%20He%20just%20attacks%20in%20the%20opposite%20direction.",
+      "value": "Chuck Norris never retreats; He just attacks in the opposite direction."
+    },
+    {
+      "id": 6,
+      "created_at": "2020/10/01",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=When%20Chuck%20Norris%20enters%20a%20room%2C%20he%20doesn%27t%20turn%20the%20lights%20on%2C%20he%20turns%20the%20dark%20off.",
+      "value": "When Chuck Norris enters a room, he doesn't turn the lights on, he turns the dark off."
+    },
+    {
+      "id": 7,
+      "created_at": "2020/11/01",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=When%20Chuck%20Norris%20does%20a%20pushup%2C%20he%27s%20pushing%20the%20Earth%20down.",
+      "value": "When Chuck Norris does a pushup, he's pushing the Earth down."
+    },
+    {
+      "id": 8,
+      "created_at": "2020/12/23",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Most%20people%20have%2023%20pairs%20of%20chromosomes.%20Chuck%20Norris%20has%2072...%20and%20they%27re%20all%20lethal.",
+      "value": "Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all lethal."
+    },
+    {
+      "id": 9,
+      "created_at": "2021/01/01",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%20once%20went%20skydiving%2C%20but%20promised%20never%20to%20do%20it%20again.%20One%20Grand%20Canyon%20is%20enough.",
+      "value": "Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough."
+    },
+    {
+      "id": 10,
+      "created_at": "2022/02/05",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%27s%20belly%20button%20is%20actually%20a%20power%20outlet.",
+      "value": "Chuck Norris's belly button is actually a power outlet."
+    },
+    {
+      "id": 11,
+      "created_at": "2022/01/01",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%20can%20start%20a%20fire%20with%20an%20ice%20cube.",
+      "value": "Chuck Norris can start a fire with an ice cube."
+    },
+    {
+      "id": 12,
+      "created_at": "2023/01/05",
+      "url": "https://parade.com/968666/parade/chuck-norris-jokes/#:~:text=Chuck%20Norris%20was%20exposed%20to%20the%20Coronavirus.%20The%20virus%20is%20now%20in%20quarantine%20for%20a%20month.",
+      "value": "Chuck Norris was exposed to the Coronavirus. The virus is now in quarantine for a month."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

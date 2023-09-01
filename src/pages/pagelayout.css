@@ -5,25 +5,6 @@
   align-items: center;
 }
 
-.notFound {
-  justify-content: center;
-  height: 100vh;
-}
-.notFound p,
-.notFound h1 {
-  color: #656ec2;
-  font-family: 'Fira Sans';
-  margin-bottom: 5px;
-}
-.notFound button {
-  width: 100px;
-  background-color: #fff;
-  color: #767676;
-  font-family: 'Montserrat';
-  border-color: #656ec2;
-  border-radius: 5px;
-}
-
 .jokes {
   width: auto;
   margin: 0 162px 0;
